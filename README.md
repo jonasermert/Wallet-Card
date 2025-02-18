@@ -8,9 +8,6 @@ This project implements an interactive **Wallet Card Animation** in Flutter. The
 - **Modern Design**: Black and orange color scheme using Material Design colors.
 - **Responsive Layout**: Works on different screen sizes.
 
-## 📷 Preview
-![Wallet Card Animation Preview](https://your-image-url.com)
-
 ## 🛠️ Installation
 ### Requirements
 - Flutter SDK installed ([Flutter Installation Guide](https://flutter.dev/docs/get-started/install))
